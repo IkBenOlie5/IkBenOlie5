@@ -2,7 +2,7 @@
 <details>
   <summary>Github stats...</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IkBenOlie5" />
+    <img src="https://github-readme-stats.vercel.app/api?username=IkBenOlie5&show_icons=true&theme=tokyonight" />
   </p>
  </details>
 <details>
